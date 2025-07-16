@@ -6,7 +6,7 @@ Welcome to the backend of **Shoppy Globe**, an e-commerce platform that powers u
 
 ## 🔗 Repository Link
 
-[GitHub Repo](https://github.com/Varsha-Boddapati-24/shoppyGlobe-backend.git)
+[GitHub Repo](https://github.com/Neha-create-13/shoppyglobe.git)
 
 ---
 
@@ -44,7 +44,7 @@ Ensure the following are installed on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Varsha-Boddapati-24/shoppyGlobe-backend.git
+   git clone https://github.com/Neha-create-13/shoppyglobe.git
 2. **Navigate to the project directory**
      ```bash
        cd shoppyGlobe-backend
@@ -84,9 +84,6 @@ Ensure the following are installed on your machine:
 - **DELETE** `/cart` – Clear the entire cart for the logged-in user  
 
 
-##  Contact Me
- **Email:** varshaboddapati24@gmail.com     
- **LinkedIn:** https://www.linkedin.com/in/varsha-boddapati-9a9124211/
 
 ---
 
